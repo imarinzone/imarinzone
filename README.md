@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="profile.jpg" alt="Arindam Kumar Nath" width="200" style="border-radius: 50%; border: 4px solid #e69d00;" />
+  <img src="profile.html" alt="Arindam Kumar Nath" width="200" style="border-radius: 50%; border: 4px solid #e69d00;" />
 </div>
 
 # Hi there, I'm Arindam Kumar Nath 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300/0b0f14/e69d00?text=Backend+Developer+%7C+Cloud+Native+%7C+Microservices)
 
 ## About Me
 
